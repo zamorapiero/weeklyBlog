@@ -2,7 +2,8 @@
 layout: "post"
 ---
 
-##Week 1 Docker Blog
+# Week 1 Docker Blog
+
 This week we were tasked with going over the docker install procedure used by the students in the CIT 160 class and define any potential areas of improvement.
 
 The beginning of the instructions were pretty straight forward, however, if the student is a windows user they should be made aware that the commands they will be running are going to be executed using powershell. While other students can execute these commands in their terminal window for their OS, some windows users will need to enable some features to make it possible
